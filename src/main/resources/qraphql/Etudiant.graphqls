@@ -1,0 +1,5 @@
+type Etudiant{
+     name :String
+     email : String
+    dateNaissance : String
+}
